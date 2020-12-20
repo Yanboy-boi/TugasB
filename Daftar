@@ -1,0 +1,25 @@
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <link type="text/css" rel="stylesheet" href="style02.css" />
+    </head>
+    <body>
+        <div class="Header">
+            <div class="top">
+             Create Account  
+            </div>
+            <input type="text" name="User" placeholder="Email"/> </br>
+            <input type="text" name="Pass" placeholder="Username"/> </br>
+            <input type="password" name="Pass" placeholder="Password"/> </br>
+            <input type="password" name="Pass" placeholder="Re-Password"/> </br>
+              <div class="btn">
+                  <button type="submit" class="button" > Create </button>
+              </div>
+            belum punya akun? <a href="index.php"> Masuk </a> </br>
+            <a href="Lupapw.php"> Lupa Password </a>
+        </div>    
+
+    </body>
+</html>
